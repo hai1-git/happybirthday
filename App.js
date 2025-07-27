@@ -1,6 +1,6 @@
 import React from "react";
-import "./App.scss";
-import giftBoxImg from "./assets/imgs/giftbox.png";
+import "./App.css";
+import giftBoxImg from "./assets/imgs/giftbox.png"; // chỉnh đúng theo đường dẫn thực tế
 import PassWord from "./components/password/password";
 
 function App() {
