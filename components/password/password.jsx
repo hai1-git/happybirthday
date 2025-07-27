@@ -1,7 +1,7 @@
 import { useState } from "react";
 import classNames from "classnames/bind";
 import styles from "./password.module.scss";
-import Cake from "../cake/cake";
+import Cake from "@components/cake/cake";
 const cx = classNames.bind(styles);
 
 function PassWord() {
