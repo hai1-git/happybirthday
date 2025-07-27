@@ -1,8 +1,7 @@
 import React from "react";
 import "./App.scss";
 import giftBoxImage from "./assets/imgs/giftbox.png";
-import PassWord from "@components/password/password";
-
+import PassWord from "./components/password/password";
 function App() {
     const refTimer = React.useRef(null);
 
